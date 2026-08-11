@@ -41,26 +41,15 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
-  <a href="mailto:kavshickks@gmail.com">
+  <a href="mailto:ksvshickks@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kavshick&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-
-  <img src="https://github-profile-trophy.vercel.app?username=kavshick&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph"  />
-</div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kavshick/kavshick/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kavshick/kavshick/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kavshick/kavshick/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
